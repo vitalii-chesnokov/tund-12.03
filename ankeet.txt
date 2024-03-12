@@ -1,0 +1,5 @@
+Esimine nädala päev?:Esmaspäev
+Viimane kuu?:Detsember
+Nädala viimane päev?:Pühapäev
+Mis on aasta esimene kuu?:Jaanuar
+
